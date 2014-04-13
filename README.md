@@ -1,4 +1,5 @@
-TmuxConf
-========
+## TmuxConf
 
-Tmux configuration
+
+* \<leader> => \<ctrl> + c
+
