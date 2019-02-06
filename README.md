@@ -1,5 +1,5 @@
 ## TmuxConf
 
 
-* \<leader> => \<ctrl> + c
+* \<leader> => \<ctrl> + s
 
